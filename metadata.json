@@ -1,0 +1,5 @@
+{
+  "name": "Demo SOL Token",
+  "symbol": "DST",
+  "description": "Example token from Solana Making a Token guide."
+}
